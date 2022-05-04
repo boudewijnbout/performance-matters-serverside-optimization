@@ -1,57 +1,27 @@
-# Chippr.dev SSR & Detailpage 
-![Schermafbeelding Homepagina](public/images/screenshot-homepage.png)
+> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-Dit project omvat een detailpagina voor een project uitgevoerd door Chippr, waarbij alle pagina's via server side rendering (ssr) worden getoond aan de eindgebruiker. Hierbij is de data van de pagina's afkomstig vanuit de voor Chippr gemaakte API.
+# Titel
+Geef je project een titel en schrijf in één zin wat het is.
 
+## Serverside Performance Optimalisatie
+Beschrijf de website die je hebt geoptimaliseerd, voeg screenshots van de performance audit voor en na het uitvoeren en beschrijf de verbeterde performance. Met andere woorden, welke winst heb je behaald door dit allemaal te doen! Voeg de url en een screenshot van de geoptimaliseerde website toe. 
 
-## 📚 Inhoudsopgave
+### Minifying
+Beschrijf welke bestanden je _minified_ hebt en waarom je dat gedaan hebt. Als je er bewust voor kiest bepaalde bestanden niet te minify-en dan beschrijf je ook waarom je dat niet gedaan hebt.
 
-* [Beschrijving](#beschrijving)
-* [Kenmerken](#kenmerken)
-* [Installatie](#installatie)
-* [Gebruik](#gebruik)
-* [Bronnen](#bronnen)
-* [Licentie](#licentie)
+### Code splitting
+Beschrijf welke front-end javascript bestanden je gesplit hebt en waarom je dat gedaan hebt. Schrijf vanuit het idee van daadwerkelijk gebruikte code per pagina.
 
-## ⚡ Kenmerken
-Dit project is gemaakt met HTML, CSS en JavaScript. Verder staat hieronder een korte lijst met gebruikte tools en middelen.
+### Caching
+Beschrijf welke caching opties je gekozen hebt en waarom je dat op deze manier doet.
 
-**Tools**
+### Compressie
+Beschrijf hoe je compressie hebt ingezet en waarom je die keuze hebt gemaakt.
 
-- 🖥️ Webstorm & Visual Studio Code
-- 🔥 Adobe XD
-- ✍ Pen & Papier
+## Bronnen
+Beschrijf de door jou gebruikte bronnen om bovenstaande stappen uit te voeren.
 
-**Gebruikte technieken**
-
-- 📟 HTML
-- ⌚ CSS
-- 📲 JavaScript
-
-## 📥 Installatie
-
-1. Clone of download deze respository.
-2. Ga naar de root directory van het project.
-3. Open het `index.html` bestand, hierdoor wordt de homepagina vn de website geopend.
-
-## 🔨 Gebruik
-
-Op de pagina word een sectie getoond met uitgevoerde projecten door Chippr. Als je hierop klikt word je doorverwezen naar een detailpagina waarin het aangeklikte project verder word toegelicht.
-
-## 🔗 Handige links
-
-[Wiki](https://github.com/boudewijnbout/the-web-is-for-everyone-chippr.dev/wiki)
-
-## 📖 Bronnen
-[HTML5](https://www.w3schools.com/html/)
-<br>
-[CSS3](https://www.w3schools.com/css/)
-<br>
-[JavaScript](https://www.w3schools.com/js/)
-<br>
-[EJS](https://ejs.co/)
-
-## 🔓 Licentie
+## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
