@@ -1,10 +1,14 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# 🏎 Chippr.dev SSR Optimization
+Verbeter de performance van de Chippr.dev website uit sprint 9.
 
-# Titel
-Geef je project een titel en schrijf in één zin wat het is.
+## 🖥 Serverside Performance Optimalisatie
+Beschrijf de website die je hebt geoptimaliseerd, voeg screenshots van de performance audit voor en na het uitvoeren en beschrijf de verbeterde performance. Met andere woorden, welke winst heb je behaald door dit allemaal te doen! Voeg de url en een screenshot van de geoptimaliseerde website toe.
 
-## Serverside Performance Optimalisatie
-Beschrijf de website die je hebt geoptimaliseerd, voeg screenshots van de performance audit voor en na het uitvoeren en beschrijf de verbeterde performance. Met andere woorden, welke winst heb je behaald door dit allemaal te doen! Voeg de url en een screenshot van de geoptimaliseerde website toe. 
+Ik heb de Chippr.dev website uit sprint 9 geoptimaliseerd, deze website bevat een homepagina waarop alle projecten van Chippr worden getoond en bevat een detailpagina waarop het desbetreffende project beter kan worden bekeken met meer informatie en afbeeldingen.
+
+### ✋ Pre optimization
+
+
 
 ### Minifying
 Beschrijf welke bestanden je _minified_ hebt en waarom je dat gedaan hebt. Als je er bewust voor kiest bepaalde bestanden niet te minify-en dan beschrijf je ook waarom je dat niet gedaan hebt.
