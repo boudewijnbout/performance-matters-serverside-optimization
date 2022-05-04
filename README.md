@@ -34,12 +34,18 @@ Ik heb voor de compressie van mijn project gebruik gemaakt van de express compre
 
 <hr>
 
-### Post optimization
+### 🚀 Post optimization
 
+<img width="900" src="https://github.com/boudewijnbout/performance-matters-serverside-optimization/blob/main/public/images/Schermafbeelding%202022-05-04%20om%2013.28.31.png" />
 
+Zoals op bovenstaande foto te zien is, hebben de door mij genomen stappen enorm geholpen in het optimalizeren van de website. Het aantal resources is zelfs bijna 2 keer zo klein geworden.
+
+<hr>
 
 ## Bronnen
-Beschrijf de door jou gebruikte bronnen om bovenstaande stappen uit te voeren.
+[Post CSS](https://postcss.org/)
+[Cache headers](https://regbrain.com/article/cache-headers-express-js)
+[Express compression](http://expressjs.com/en/resources/middleware/compression.html)
 
 ## Licentie
 
