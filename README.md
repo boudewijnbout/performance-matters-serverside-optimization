@@ -44,7 +44,9 @@ Zoals op bovenstaande foto te zien is, hebben de door mij genomen stappen enorm 
 
 ## Bronnen
 [Post CSS](https://postcss.org/)
+<br>
 [Cache headers](https://regbrain.com/article/cache-headers-express-js)
+<br>
 [Express compression](http://expressjs.com/en/resources/middleware/compression.html)
 
 ## Licentie
