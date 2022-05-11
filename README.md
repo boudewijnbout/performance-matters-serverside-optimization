@@ -20,7 +20,7 @@ In bovenstaande foto is te zien hoeveel bestanden er in totaal worden ingeladen 
 
 In bovenstaande foto is een lighthouse check te zien van de overzichtspagina. Over het algemeen is dit een goed resultaat, alleen zijn er nog een aantal verbeteringen te halen op het gebied van afbeeldingen. Deze verbeteringen staan als aanbevelingen gedocumenteerd in onderstaande link.
 
-- [Aanbevelingen](https://github.com/boudewijnbout/performance-matters-serverside-optimization/edit/main/README.md#%EF%B8%8F-aanbevelingen)
+- [Aanbevelingen](https://github.com/boudewijnbout/performance-matters-serverside-optimization#%EF%B8%8F-aanbevelingen)
 
 <hr>
 
