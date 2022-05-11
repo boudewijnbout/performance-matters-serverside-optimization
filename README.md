@@ -10,6 +10,18 @@ Ik heb de Chippr.dev website uit sprint 9 geoptimaliseerd, deze website bevat ee
 
 <img width="900" src="https://github.com/boudewijnbout/performance-matters-serverside-optimization/blob/main/public/images/Schermafbeelding%202022-04-29%20om%2012.28.27.png" />
 
+In bovenstaande foto is te zien hoeveel bestanden er in totaal worden ingeladen bij het laden van de pagina, en hoe groot deze zijn qua bytes.
+- Grootte in totaal: `627kb`
+- Afgerond in: `201ms`
+
+<hr>
+
+<img width="900" src="https://github.com/boudewijnbout/performance-matters-serverside-optimization/blob/main/public/images/Schermafbeelding%202022-05-11%20om%2010.38.24.png" />
+
+In bovenstaande foto is een lighthouse check te zien van de overzichtspagina. Over het algemeen is dit een goed resultaat, alleen zijn er nog een aantal verbeteringen te halen op het gebied van afbeeldingen. Deze verbeteringen staan als aanbevelingen gedocumenteerd in onderstaande link.
+
+- [Aanbevelingen]()
+
 <hr>
 
 ### 📦 Minifying
@@ -34,11 +46,31 @@ Ik heb voor de compressie van mijn project gebruik gemaakt van de express compre
 
 <hr>
 
+### 🕵🏻‍♂️ Aanbevelingen
+
+Bij de lighthouse check werden een aantal verbeteringen op het gebied van afbeeldingen terug gegeven als resultaat, deze verbeteringen waren als volgt:
+
+- `"Lever afbeeldingen in moderne indelingen".` Dit kan worden verbeterd door onze foto's van png in modernere bestandtypes over te zetten, zoals jpeg en jpg.
+
+- `"Afbeeldingen hebben geen expliciete width en height".` Dit kan worden verbeterd door in de HTML een vaste begin waarde voor de width en height in te stellen, dit voorkomt `lay-out shifts`.
+
+<hr>
+
 ### 🚀 Post optimization
 
 <img width="900" src="https://github.com/boudewijnbout/performance-matters-serverside-optimization/blob/main/public/images/Schermafbeelding%202022-05-04%20om%2013.28.31.png" />
 
-Zoals op bovenstaande foto te zien is, hebben de door mij genomen stappen enorm geholpen in het optimalizeren van de website. Het aantal resources is zelfs bijna 2 keer zo klein geworden.
+
+Zoals op bovenstaande foto te zien is, hebben de door mij genomen stappen enorm geholpen in het optimalizeren van de website. Het aantal resources is zelfs  2 keer zo klein geworden.
+
+- Grootte in totaal: `246kb`
+- Afgerond in: `147ms`
+
+<hr>
+
+<img width="900" src="https://github.com/boudewijnbout/performance-matters-serverside-optimization/blob/main/public/images/Schermafbeelding%202022-05-11%20om%2010.38.24.png" />
+
+In lighthouse zijn er nog geen verbeteringen te zien, dit komt omdat ik de verbeteringen die lighthouse aangeeft nog niet heb doorgevoerd. Het is daarentegen wel al een groot verschil in performance als je kijkt naar de totale grootte van de pagina en de laadtijd. Deze getallen zijn beide enorm naar beneden gegaan.
 
 <hr>
 
