@@ -16,6 +16,8 @@ In bovenstaande foto is te zien hoeveel bestanden er in totaal worden ingeladen 
 
 <hr>
 
+### 🗼 Lighthouse check
+
 <img width="900" src="https://github.com/boudewijnbout/performance-matters-serverside-optimization/blob/main/public/images/Schermafbeelding%202022-05-11%20om%2010.38.24.png" />
 
 In bovenstaande foto is een lighthouse check te zien van de overzichtspagina. Over het algemeen is dit een goed resultaat, alleen zijn er nog een aantal verbeteringen te halen op het gebied van afbeeldingen. Deze verbeteringen staan als aanbevelingen gedocumenteerd in onderstaande link.
@@ -59,7 +61,6 @@ Bij de lighthouse check werden een aantal verbeteringen op het gebied van afbeel
 ### 🚀 Post optimization
 
 <img width="900" src="https://github.com/boudewijnbout/performance-matters-serverside-optimization/blob/main/public/images/Schermafbeelding%202022-05-04%20om%2013.28.31.png" />
-
 
 Zoals op bovenstaande foto te zien is, hebben de door mij genomen stappen enorm geholpen in het optimalizeren van de website. Het aantal resources is zelfs  2 keer zo klein geworden.
 
