@@ -64,8 +64,8 @@ Bij de lighthouse check werden een aantal verbeteringen op het gebied van afbeel
 
 Zoals op bovenstaande foto te zien is, hebben de door mij genomen stappen enorm geholpen in het optimalizeren van de website. Het aantal resources is zelfs  2 keer zo klein geworden.
 
-- Grootte in totaal: `246kb`
-- Afgerond in: `147ms`
+- Grootte in totaal: `342kb`
+- Afgerond in: `363ms`
 
 <hr>
 
